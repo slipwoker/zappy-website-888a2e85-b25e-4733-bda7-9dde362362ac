@@ -1,0 +1,97 @@
+# Primitive Tribal Craft — Generative Engine Optimization Map
+
+> Primitive Tribal Craft is a premium artisan e-commerce brand that bridges heritage craftsmanship with modern design sensibility. The brand celebrates handmade goods — woven textiles, raw clay pottery, carved wood, and natural fiber adornments — created by indigenous and artisan communities rooted in tradition. The aesthetic is warm, sun-lit, and tactile: think editorial linen backdrops, close-up texture shots of woven thread and raw clay, and an earthy palette of terracotta, ochre, indigo, and cream. The brand story centers on provenance, ethical sourcing, fair trade, and the human hands behind every piece — positioning it as a soulful, trustworthy destination for design-conscious shoppers who want beauty with meaning.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Explore ethically sourced, one-of-a-kind handmade tribal crafts online. From woven textiles to raw clay pottery, each piece tells a story of heritage and human hands. Shop with meaning today.
+
+### Fabrics & Textiles
+https://example.com/fabrics
+Adorn your space with handwoven tribal textiles for sale, crafted by master artisans using time-honored techniques. Feel the texture of tradition, ethically made just for you.
+
+### Craft Detail
+https://example.com/craft-detail
+Go deeper into the provenance of artisan pottery handmade from natural materials. Learn the stories, techniques, and traditions that shape each soulful, fair trade treasure.
+
+### Products
+https://example.com/products
+Our Products - Primitive Tribal Craft
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Primitive Tribal Craft
+
+### Category
+https://example.com/category/:slug
+Products - Primitive Tribal Craft
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Primitive Tribal Craft
+Primitive Tribal Craft is a premium artisan e-commerce brand that bridges heritage craftsmanship with modern design sensibility. The brand celebrates handmade goods — woven textiles, raw clay pottery, carved wood, and natural fiber adornments — created by indigenous and artisan communities rooted in tradition. The aesthetic is warm, sun-lit, and tactile: think editorial linen backdrops, close-up texture shots of woven thread and raw clay, and an earthy palette of terracotta, ochre, indigo, and cream. The brand story centers on provenance, ethical sourcing, fair trade, and the human hands behind every piece — positioning it as a soulful, trustworthy destination for design-conscious shoppers who want beauty with meaning.
+
+## Target Audience
+- Design-minded shoppers aged 28–55 who value craftsmanship, natural materials, and the story behind each piece
+- Design-Minded Crafters
+- Eco-Conscious Collectors
+- Cultural Enthusiasts
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
